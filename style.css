@@ -1,0 +1,15 @@
+nav {background-color: #333;}
+
+            header {background-color: olive; text-align: center;}
+
+            section {background-color: rgb(253, 255, 189);}
+
+            footer {background-color: #333; text-align: center;}
+
+            article {background-color: rgb(255, 255, 255);}
+
+            a {color: white;}
+
+            h1{color: white;}
+
+            *{font-family: Arial, sans-serif;}
